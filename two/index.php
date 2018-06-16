@@ -13,10 +13,9 @@
 <!-- jQuery文件。务必在bootstrap.min.js 之前引入 -->
 <script src="https://cdn.bootcss.com/jquery/3.2.1/jquery.min.js"></script>
  
-<!-- popper.min.js 用于弹窗、提示、下拉菜单 -->
+
 <script src="https://cdn.bootcss.com/popper.js/1.12.5/umd/popper.min.js"></script>
- 
-<!-- 最新的 Bootstrap4 核心 JavaScript 文件 -->
+
 <script src="https://cdn.bootcss.com/bootstrap/4.0.0-beta/js/bootstrap.min.js"></script>
 <style>
 *{
